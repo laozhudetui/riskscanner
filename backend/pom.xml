@@ -408,7 +408,7 @@
         <dependency>
             <groupId>com.aliyun</groupId>
             <artifactId>aliyun-java-sdk-ecs</artifactId>
-            <version>4.15.0</version>
+            <version>4.24.5</version>
         </dependency>
         <!-- aliyun -->
 

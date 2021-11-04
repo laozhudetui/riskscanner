@@ -387,7 +387,7 @@
         <dependency>
             <groupId>com.aliyun</groupId>
             <artifactId>aliyun-java-sdk-core</artifactId>
-            <version>4.5.20</version>
+            <version>4.5.28</version>
             <exclusions>
                 <exclusion>
                     <artifactId>commons-codec</artifactId>

@@ -416,7 +416,7 @@
         <dependency>
             <groupId>com.huaweicloud.sdk</groupId>
             <artifactId>huaweicloud-sdk-core</artifactId>
-            <version>3.0.23-beta</version>
+            <version>3.0.103</version>
             <exclusions>
                 <exclusion>
                     <groupId>commons-io</groupId>

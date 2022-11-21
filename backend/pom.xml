@@ -471,7 +471,7 @@
         <dependency>
             <groupId>com.huaweicloud.sdk</groupId>
             <artifactId>huaweicloud-sdk-ims</artifactId>
-            <version>3.0.23-beta</version>
+            <version>3.0.106</version>
             <exclusions>
                 <exclusion>
                     <groupId>commons-io</groupId>

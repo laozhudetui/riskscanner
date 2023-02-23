@@ -368,7 +368,7 @@
         <dependency>
             <groupId>com.nimbusds</groupId>
             <artifactId>oauth2-oidc-sdk</artifactId>
-            <version>7.4</version>
+            <version>8.15</version>
         </dependency>
         <dependency>
             <groupId>com.microsoft.azure</groupId>

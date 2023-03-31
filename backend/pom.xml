@@ -368,7 +368,7 @@
         <dependency>
             <groupId>com.nimbusds</groupId>
             <artifactId>oauth2-oidc-sdk</artifactId>
-            <version>7.4</version>
+            <version>10.7.1</version>
         </dependency>
         <dependency>
             <groupId>com.microsoft.azure</groupId>
@@ -427,7 +427,7 @@
         <dependency>
             <groupId>com.huaweicloud.sdk</groupId>
             <artifactId>huaweicloud-sdk-vpc</artifactId>
-            <version>3.0.23-beta</version>
+            <version>3.1.34</version>
             <exclusions>
                 <exclusion>
                     <groupId>commons-io</groupId>
@@ -438,7 +438,7 @@
         <dependency>
             <groupId>com.huaweicloud.sdk</groupId>
             <artifactId>huaweicloud-sdk-iam</artifactId>
-            <version>3.0.23-beta</version>
+            <version>3.1.34</version>
             <exclusions>
                 <exclusion>
                     <groupId>commons-io</groupId>
@@ -482,7 +482,7 @@
         <dependency>
             <groupId>com.huaweicloud.sdk</groupId>
             <artifactId>huaweicloud-sdk-ces</artifactId>
-            <version>3.0.23-beta</version>
+            <version>3.1.34</version>
             <exclusions>
                 <exclusion>
                     <groupId>commons-io</groupId>

@@ -203,7 +203,7 @@
         <dependency>
             <groupId>org.springdoc</groupId>
             <artifactId>springdoc-openapi-ui</artifactId>
-            <version>1.2.32</version>
+            <version>1.6.0</version>
         </dependency>
         <!-- openapi -->
 
@@ -224,7 +224,7 @@
         <dependency>
             <groupId>io.swagger</groupId>
             <artifactId>swagger-parser</artifactId>
-            <version>1.0.51</version>
+            <version>1.0.56</version>
             <exclusions>
                 <exclusion>
                     <groupId>com.google.guava</groupId>

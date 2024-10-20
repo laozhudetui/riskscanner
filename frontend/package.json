@@ -26,7 +26,7 @@
     "md5": "^2.3.0",
     "mockjs": "^1.1.0",
     "sha.js": "^2.4.11",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-calendar-heatmap": "^0.8.4",
     "vue-codemirror": "^4.0.6",
     "vue-cron-generator": "^0.1.9",
